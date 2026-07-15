@@ -6,6 +6,13 @@
 ---
 **Nothing is here yet,but there will be.**
 ## Status
-It updating.
+updating.
 ## Table of contents
-Nothing yet.
+[1. To-Do List CLI(Updating)](#todo)
+
+---
+
+<a id="todo"></a>
+## To-Do List CLI(Updating)
+This project is very simple. So it's perfect for beginners 
+to study. It is a tool to help you manage your tasks.
