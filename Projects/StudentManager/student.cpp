@@ -16,7 +16,7 @@ void Student::setname(const std::string& tname)
 	this->name = tname;
 }
 
-void Student::setscore(const std::string& subject, int tscore)
+void Student::setscore(const std::string& subject, double tscore)
 {
 	this->scores[subject] = tscore;
 }

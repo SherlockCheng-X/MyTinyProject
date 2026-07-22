@@ -12,7 +12,7 @@ public:
 	Student(const std::string& tname, const int tid);
 	void setid(const int tid);
 	void setname(const std::string& tname);
-	void setscore(const std::string& subject, int tscore);
+	void setscore(const std::string& subject, double tscore);
 	int getid() const;
 	std::string getname() const;
 	std::optional<double> getscore(const std::string subject) const;
